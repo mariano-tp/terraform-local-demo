@@ -1,11 +1,14 @@
+[![CI: terraform-ci](https://img.shields.io/github/actions/workflow/status/mariano-tp/terraform-local-demo/terraform-ci.yml?branch=main&label=terraform-ci&style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/actions/workflows/terraform-ci.yml)
+[![release](https://img.shields.io/github/v/release/mariano-tp/terraform-local-demo?display_name=tag&style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/releases)
+[![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
+[![last commit](https://img.shields.io/github/last-commit/mariano-tp/terraform-local-demo?style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/commits/main)
+[![stars](https://img.shields.io/github/stars/mariano-tp/terraform-local-demo?style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/stargazers)
+
+
 # terraform-local-demo
 
 Demo mínima de Terraform **sin cuentas cloud** usando los providers `local` y `random`.  
 El repo incluye **CI en GitHub Actions** que corre `terraform fmt` y `terraform validate`.
-
-[![terraform-ci](https://github.com/mariano-tp/terraform-local-demo/actions/workflows/terraform-ci.yml/badge.svg?branch=main)](./.github/workflows/terraform-ci.yml)
-![license](https://img.shields.io/badge/license-MIT-green)
-![last commit](https://img.shields.io/github/last-commit/mariano-tp/terraform-local-demo)
 
 ## ¿Qué hace?
 - Genera un ID aleatorio (`random_id`).
