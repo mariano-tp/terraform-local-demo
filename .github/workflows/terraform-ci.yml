@@ -1,21 +1,19 @@
 name: terraform-ci
 on:
-  workflow_dispatch:
   push:
     branches: [ main ]
   pull_request:
+  workflow_dispatch:
 
 jobs:
   fmt_validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Setup Terraform
-        uses: hashicorp/setup-terraform@v3
+      - uses: hashicorp/setup-terraform@v3
         with:
-          terraform_wrapper: false
           terraform_version: 1.6.6
-      - name: Terraform fmt
+      - name: Terraform fmt (check)
         run: terraform fmt -check -recursive
       - name: Terraform init
         run: terraform init -backend=false
