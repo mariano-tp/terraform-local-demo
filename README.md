@@ -37,3 +37,5 @@ El repo incluye **CI en GitHub Actions** que corre `terraform fmt` y `terraform 
 
 ## Créditos
 Repositorio de portfolio por @mariano-tp. Licencia MIT.
+
+Ver también: [Código de Conducta](./CODE_OF_CONDUCT.md)
