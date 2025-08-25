@@ -4,7 +4,7 @@
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
 [![stars](https://img.shields.io/github/stars/mariano-tp/terraform-local-demo?style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/stargazers)
 
-# terraform-local-demo
+# Terraform Local Demo
 
 Demo mínima de Terraform **sin cuentas cloud** usando los providers `local` y `random`.  
 El repo incluye **CI en GitHub Actions** que corre `terraform fmt` y `terraform validate`.
