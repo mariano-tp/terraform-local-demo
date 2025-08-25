@@ -33,6 +33,7 @@ El repo incluye **CI en GitHub Actions** que corre `terraform fmt` y `terraform 
 └── .github/
     └── workflows/
         └── terraform-ci.yml
+```
 
 ## Créditos
 Repositorio de portfolio por @mariano-tp. Licencia MIT.
