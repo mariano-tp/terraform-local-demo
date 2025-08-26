@@ -1,5 +1,15 @@
-# Seguridad
+# Política de Seguridad
 
-Este proyecto no maneja credenciales reales. Si detectás un problema de seguridad, abrí un Issue con el detalle (sin incluir secretos ni tokens).
+Si encontrás una vulnerabilidad, **no** abras un issue público con detalles.  
+Escribí a **mtorres.dev@outlook.com** con la mayor información posible (pasos para reproducir, alcance, impacto).
 
-Si el hallazgo no es público, podés describirlo de forma general y adjuntar pasos de reproducción mínimos.
+## Alcance
+- Código y configuraciones dentro de este repositorio.
+- No incluye servicios de terceros fuera del control del proyecto.
+
+## Tratamiento
+- Intentaremos responder dentro de **7 días**.
+- Se evaluará el impacto y, si corresponde, se preparará un fix y un release.
+- Agradecemos la divulgación responsable.
+
+Gracias por ayudar a mantener un proyecto seguro.
