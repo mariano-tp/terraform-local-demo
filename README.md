@@ -33,4 +33,9 @@ The repo includes **CI in GitHub Actions** running `terraform fmt` and `terrafor
 └── .github/
     └── workflows/
         └── terraform-ci.yml
+```
 
+## Credits
+Portfolio repository by @mariano-tp. Licensed under MIT.
+
+See also: [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
