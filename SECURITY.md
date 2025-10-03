@@ -1,21 +1,22 @@
-# Política de Seguridad
+# Security Policy
 
-Este repositorio es parte de un **portfolio personal**. El código es educativo/demostrativo y no corresponde a un servicio en producción.
+This repository is part of a **personal portfolio**. The code is educational/demonstrative and is not tied to any production service.
 
-## Cómo reportar
-- **Privado (recomendado):** en este repo, usá **Security → Report a vulnerability** para enviar el informe de forma privada.
-- **Si no ves esa opción:** abrí un **Issue** con el título **`Security: request private contact`** *sin detalles técnicos*. Te invitaré a un **Security Advisory** privado para continuar el intercambio.
+## How to Report
+- **Private (recommended):** In this repo, use **Security → Report a vulnerability** to submit the report privately.  
+- **If you don’t see that option:** open an **Issue** with the title **`Security: request private contact`** *without technical details*. I’ll then invite you to a private **Security Advisory** for further discussion.
 
-> **No publiques PoC ni datos sensibles** en espacios públicos (Issues/PRs).
+> **Do not publish PoC or sensitive data** in public spaces (Issues/PRs).
 
-## Alcance
-- Solo aplica al **código y configuraciones** de este repositorio.
-- Quedan fuera servicios de terceros y entornos que no controla el proyecto.
+## Scope
+- Applies only to the **code and configurations** within this repository.  
+- Third-party services and environments not controlled by this project are out of scope.  
 
-## Tratamiento
-- Atención en modalidad de **mejor esfuerzo** (sin SLA). Intento responder dentro de **7 días**.
-- Si corresponde, prepararé un fix o documentaré mitigaciones en un release o commit.
+## Handling
+This repository is part of a personal portfolio.  
+Security reports are not actively monitored or handled.  
+No fixes or mitigations should be expected.  
 
-## Claves/secretos
-- No incluir secretos reales en Issues/PRs.
-- Si detectás credenciales expuestas, reportalo por canal privado para su rotación/eliminación.
+## Keys/Secrets
+- Do not include real secrets in Issues/PRs.  
+- If you discover exposed credentials, please report it privately so they can be rotated/removed.  
