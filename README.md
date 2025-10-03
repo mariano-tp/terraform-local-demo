@@ -6,15 +6,15 @@
 
 # Terraform Local Demo
 
-Demo mínima de Terraform **sin cuentas cloud** usando los providers `local` y `random`.  
-El repo incluye **CI en GitHub Actions** que corre `terraform fmt` y `terraform validate`.
+Minimal Terraform demo **without cloud accounts**, using the `local` and `random` providers.  
+The repo includes **CI in GitHub Actions** running `terraform fmt` and `terraform validate`.
 
-## ¿Qué hace?
-- Genera un ID aleatorio (`random_id`).
-- Crea un archivo local (simulado) con ese ID (`local_file`).
+## What does it do?
+- Generates a random ID (`random_id`).
+- Creates a (simulated) local file with that ID (`local_file`).
 
-> **Nota:** No hace falta correr nada en tu PC; el **CI** ya valida el código.  
-> Si querés probar localmente:
+> **Note:** You don’t need to run anything on your machine; the **CI** already validates the code.  
+> If you want to test it locally:
 >
 > ```bash
 > terraform init -backend=false
@@ -23,7 +23,7 @@ El repo incluye **CI en GitHub Actions** que corre `terraform fmt` y `terraform 
 > terraform plan
 > ```
 
-## Estructura
+## Structure
 ```text
 .
 ├── main.tf
@@ -33,9 +33,4 @@ El repo incluye **CI en GitHub Actions** que corre `terraform fmt` y `terraform 
 └── .github/
     └── workflows/
         └── terraform-ci.yml
-```
 
-## Créditos
-Repositorio de portfolio por @mariano-tp. Licencia MIT.
-
-Ver también: [Código de Conducta](./CODE_OF_CONDUCT.md) · [Contribuir](./CONTRIBUTING.md) · [Seguridad](./SECURITY.md)
