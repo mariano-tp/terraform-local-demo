@@ -1,30 +1,30 @@
-# Guía de Contribución
+# Contributing Guide
 
-Gracias por tu interés 🙌. Este repo está pensado para ser simple y reproducible.
+Thank you for your interest. This repo is designed to be simple and reproducible.
 
-## Flujo de trabajo
-1. **Abrí un issue** usando la plantilla (Bug / Mejora), si aplica.
-2. **Creá una rama** desde `main`:
-   - `feat/<breve-descripcion>` para nuevas features
-   - `fix/<breve-descripcion>` para bugs
-   - `docs/...`, `ci/...` para documentación o pipelines
-3. **Commits** estilo *Conventional Commits*:
+## Workflow
+1. **Open an issue** using the template (Bug / Enhancement), if applicable.
+2. **Create a branch** from `main`:
+   - `feat/<short-description>` for new features
+   - `fix/<short-description>` for bugs
+   - `docs/...`, `ci/...` for documentation or pipelines
+3. **Commits** must follow *Conventional Commits*:
    - `feat:`, `fix:`, `docs:`, `ci:`, `chore:`
 4. **Pull Request**:
-   - Un solo tema por PR
-   - Link al issue
-   - Pasar todos los checks de CI
-   - Actualizar README si aplica
+   - One topic per PR
+   - Link to the issue
+   - All CI checks must pass
+   - Update README if applicable
 
-## Estilo / calidad
-- Markdown simple y claro (español).
-- Mantener consistencia de badges y secciones (README).
-- Documentar variables y outputs si se agregan.
+## Style / Quality
+- Use clear and simple Markdown (English).
+- Keep badges and sections consistent (README).
+- Document variables and outputs if new ones are added.
 
 ## CI
-Los PRs deben quedar en **verde**:
+PRs must pass and show **green**:
 - `terraform fmt -recursive`
 - `terraform validate`
 
-## Licencia
-Al contribuir aceptás que tu aporte se publica bajo **MIT** (ver `LICENSE`).
+## License
+By contributing, you agree that your contribution will be published under **MIT** (see `LICENSE`).
