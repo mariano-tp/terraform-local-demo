@@ -38,7 +38,7 @@ Evidencia: los logs del workflow dentro de GitHub Actions.
         └── terraform-ci.yml
 ```
 
-Créditos
+## Créditos
 
 Repositorio de portfolio por @mariano-tp. Licencia MIT.
 
