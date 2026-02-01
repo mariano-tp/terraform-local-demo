@@ -1,13 +1,13 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)  
 
 
-Volver al repositorio: [Home](https://github.com/mariano-tp/mariano-tp/blob/main/README.ES.md)
+Volver al repositorio: [Home](https://github.com/metorresponce/metorresponce/blob/main/README.ES.md)
   
-[![CI: terraform](https://img.shields.io/github/actions/workflow/status/mariano-tp/terraform-local-demo/terraform-ci.yml?branch=main&label=terraform-ci&style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/actions/workflows/terraform-ci.yml)
-[![last commit](https://img.shields.io/github/last-commit/mariano-tp/terraform-local-demo?style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/commits/main)
-[![release](https://img.shields.io/github/v/release/mariano-tp/terraform-local-demo?display_name=tag&style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/releases)
+[![CI: terraform](https://img.shields.io/github/actions/workflow/status/metorresponce/terraform-local-demo/terraform-ci.yml?branch=main&label=terraform-ci&style=flat-square)](https://github.com/metorresponce/terraform-local-demo/actions/workflows/terraform-ci.yml)
+[![last commit](https://img.shields.io/github/last-commit/metorresponce/terraform-local-demo?style=flat-square)](https://github.com/metorresponce/terraform-local-demo/commits/main)
+[![release](https://img.shields.io/github/v/release/metorresponce/terraform-local-demo?display_name=tag&style=flat-square)](https://github.com/metorresponce/terraform-local-demo/releases)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
-[![stars](https://img.shields.io/github/stars/mariano-tp/terraform-local-demo?style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/stargazers)
+[![stars](https://img.shields.io/github/stars/metorresponce/terraform-local-demo?style=flat-square)](https://github.com/metorresponce/terraform-local-demo/stargazers)
 
 # Terraform Local Demo
 
@@ -43,6 +43,6 @@ Evidencia: los logs del workflow dentro de GitHub Actions.
 
 ## Créditos
 
-Repositorio de portfolio por @mariano-tp. Licencia MIT.
+Repositorio de portfolio por @metorresponce. Licencia MIT.
 
 Ver también:  [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
