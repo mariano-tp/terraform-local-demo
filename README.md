@@ -1,12 +1,12 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
 
-Back to repository: [Home](https://github.com/mariano-tp/mariano-tp/blob/main/README.md)
+Back to repository: [Home](https://github.com/metorresponce/metorresponce/blob/main/README.md)
 
-[![CI: terraform](https://img.shields.io/github/actions/workflow/status/mariano-tp/terraform-local-demo/terraform-ci.yml?branch=main&label=terraform-ci&style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/actions/workflows/terraform-ci.yml)
-[![last commit](https://img.shields.io/github/last-commit/mariano-tp/terraform-local-demo?style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/commits/main)
-[![release](https://img.shields.io/github/v/release/mariano-tp/terraform-local-demo?display_name=tag&style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/releases)
+[![CI: terraform](https://img.shields.io/github/actions/workflow/status/metorresponce/terraform-local-demo/terraform-ci.yml?branch=main&label=terraform-ci&style=flat-square)](https://github.com/metorresponce/terraform-local-demo/actions/workflows/terraform-ci.yml)
+[![last commit](https://img.shields.io/github/last-commit/metorresponce/terraform-local-demo?style=flat-square)](https://github.com/metorresponce/terraform-local-demo/commits/main)
+[![release](https://img.shields.io/github/v/release/metorresponce/terraform-local-demo?display_name=tag&style=flat-square)](https://github.com/metorresponce/terraform-local-demo/releases)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
-[![stars](https://img.shields.io/github/stars/mariano-tp/terraform-local-demo?style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/stargazers)
+[![stars](https://img.shields.io/github/stars/metorresponce/terraform-local-demo?style=flat-square)](https://github.com/metorresponce/terraform-local-demo/stargazers)
 
 # Terraform Local Demo
 
@@ -41,6 +41,6 @@ Evidence: the workflow run logs in GitHub Actions.
 ```
 
 ## Credits
-Portfolio repository by @mariano-tp. Licensed under MIT.
+Portfolio repository by @metorresponce. Licensed under MIT.
 
 See also: [Code of Conduct](./CODE_OF_CONDUCT.md) · [Contributing](./CONTRIBUTING.md) · [Security](./SECURITY.md)
